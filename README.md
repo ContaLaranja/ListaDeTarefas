@@ -21,4 +21,4 @@ Remover tarefas da lista.
 Visualização centralizada e estilizada das tarefas.
 
 
-feito por: Alexsandro S. de O. Júnior
+Feito por: Alexsandro S. de O. Júnior
